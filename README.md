@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Juan Pablo
-- 👀 I’m interested in web development.
+- 👀 I’m interested in web development and mobile app.
 - 🌱 I’m currently learning javascript and node.js
 - 💞️ I’m looking to collaborate on web backend and mobile app with javascript.
 - 📫 How to reach me...
