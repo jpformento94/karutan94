@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Juan Pablo
+- 👋 Hi, I’m Juan Pablo Formento.
 - 👀 I’m interested in web development and mobile app.
-- 🌱 I’m currently learning javascript and node.js
+- 🌱 I’m currently learning javascript and node.js.
 - 💞️ I’m looking to collaborate on web backend and mobile app with javascript.
 - 📫 How to reach me...
   email: formentojuanpablo@gmail.com
