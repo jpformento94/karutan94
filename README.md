@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Juan Pablo Formento.
-- 👀 I’m interested in web development and mobile app.
+- 👀 I’m interested in web development, mobile app and desktop app.
 - 🌱 I’m currently learning C# and .NET.
-- 💞️ I’m looking to collaborate on web backend and mobile app with javascript.
+- 💞️ I’m looking to collaborate on develop app with C# and .NET.
 - 📫 How to reach me...
   email: formentojuanpablo@gmail.com
           
